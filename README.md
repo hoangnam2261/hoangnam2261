@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**hoangnam2261/hoangnam2261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/hoangnam2261">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangnam2261&show_icons=true&hide_border=true" alt="Nam's github stats"/>
+</a>
 
-Here are some ideas to get you started:
+# Connect with me
+<a href="https://www.linkedin.com/in/nhnamcse">
+    <img align="left" alt="Nam | Linkedin" width="24px" src="https://github.com/hoangnam2261/hoangnam2261/blob/master/asset/Linkedin.svg" />
+</a>
+<a href="mailto:hoangnam2261@gmail.com">
+    <img align="left" alt="Nam | Gmail" width="26px" src="https://github.com/hoangnam2261/hoangnam2261/blob/master/asset/Gmail.svg" />
+</a>
+<a href="skype:hoangnam2261?chat">
+    <img align="left" alt="Nam | Skype" width="26px" src="https://github.com/hoangnam2261/hoangnam2261/blob/master/asset/Skype.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hoangnam2261)
