@@ -14,4 +14,5 @@
 <a href="skype:hoangnam2261?chat">
     <img align="left" alt="Nam | Skype" width="26px" src="https://raw.githubusercontent.com/hoangnam2261/hoangnam2261/master/assets/Skype.svg" />
 </a>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hoangnam2261)
