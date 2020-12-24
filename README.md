@@ -5,9 +5,6 @@
 </a>
 
 # Connect with me
-<a href="skype:hoangnam2261?chat">
-    <img align="left" alt="Nam | Skype" width="26px" src="https://raw.githubusercontent.com/hoangnam2261/hoangnam2261/master/assets/Skype.svg" />
-</a>
 <a href="https://www.linkedin.com/in/nhnamcse">
     <img align="left" alt="Nam | Linkedin" width="24px" src="https://raw.githubusercontent.com/hoangnam2261/hoangnam2261/master/assets//Linkedin.svg" />
 </a>
